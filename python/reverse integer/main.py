@@ -1,4 +1,4 @@
-x = 123
+x = int(input("int:"))
 
 #Вывести обратное число
 def getReverse(num):

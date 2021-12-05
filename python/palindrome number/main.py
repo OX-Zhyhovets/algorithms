@@ -1,4 +1,4 @@
-x = 121
+x = int(input("int:"))
 
 def reverseNumber(number):
 	str_num = str(number)
